@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>firstproject Releases Nexus Repository</name>
-	      <url>http://52.87.179.223:8081/repository/firstproject-releases/</url>
+	      <name>flipkart Releases Nexus Repository</name>
+	      <url>http://54.161.97.189:9981/shravani/repository/flipkart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>firstproject Snapshot Nexus Repository </name>
-	      <url>http://52.87.179.223:8081/repository/firstproject-snapshots/</url>
+	      <name>flipkart Snapshot Nexus Repository </name>
+	      <url>http://54.161.97.189:9981/shravani/repository/flipkart-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
