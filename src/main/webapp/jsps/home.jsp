@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">hello,Welcome to  y shravanireddy Technologies.</h1>
+<h1 align="center">hello,Welcome to  yatham shravani REDDY Technologies.</h1>
 <h1 align="center">Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <div style="text-align: center;">
